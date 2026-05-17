@@ -355,10 +355,4 @@ npm run lint     # ESLint
 - [x] .env.example (no secrets committed)
 - [x] README with setup instructions
 
----
 
-## Submission
-
-**Email:** ritik.yadav@servicehive.tech  
-**CC:** hr.recruitment@servicehive.tech  
-**Subject:** `MERN Internship Assignment Submission - [Your Name]`

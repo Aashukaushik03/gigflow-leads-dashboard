@@ -12,7 +12,7 @@ A production-grade full-stack Lead Management Dashboard built with the **MERN st
 | Backend | Node.js, Express.js, TypeScript |
 | Database | MongoDB + Mongoose |
 | Auth | JWT + bcrypt |
-| DevOps | Docker + Docker Compose |
+
 
 ---
 

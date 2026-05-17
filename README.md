@@ -4,6 +4,13 @@ A production-grade full-stack Lead Management Dashboard built with the **MERN st
 
 ---
 
+##  Live Demo
+
+- **Frontend:** https://gigflow-leads-dashboard-delta.vercel.app
+- **Backend API:** https://gigflow-leads-dashboard-6m9r.onrender.com
+- **Health Check:** https://gigflow-leads-dashboard-6m9r.onrender.com/health
+
+---
 ## Tech Stack
 
 | Layer | Technology |
